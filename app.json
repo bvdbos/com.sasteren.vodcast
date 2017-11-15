@@ -1,0 +1,61 @@
+{
+    "id": "com.sasteren.vodcast",
+    "sdk": 2,
+    "name": {
+        "en": "Vodcasts",
+		"nl": "Vodcasts"
+    },
+    "description": {
+        "en": "Fetches video URLs for videostreams",
+		"nl": "Haalt video URLs voor videostreams op"
+    },
+    "category": "internet",
+    "version": "0.2.0",
+    "compatibility": ">=1.5.0",
+    "author": {
+        "name": "Bas van den Bosch",
+        "email": "bvdbos@gmail.com"
+    },
+    "images": {
+        "large": "/assets/images/large.jpg",
+        "small": "/assets/images/small.jpg"
+    },
+	"flow": {
+		"triggers": [
+			{
+				"id": "new_vodcast_item",
+				"title": {
+					"en": "There's a new Vodcast",
+					"nl": "Er is een nieuwe Vodcast"
+				},
+				"tokens": [
+					{
+						"name": "item",
+						"type": "string",
+						"title": {
+							"en": "latest vodcast",
+							"nl": "nieuwste vodcast"
+						}
+					},
+					{
+						"name": "vctitle",
+						"type": "string",
+						"title": {
+							"en": "vodcast-title",
+							"nl": "vodcast-naam"
+						}
+					},
+					{
+						"name": "tijd",
+						"type": "string",
+						"title": {
+							"en": "time",
+							"nl": "tijd"
+						}
+					}
+				]
+			}
+        ]
+    }
+
+}
