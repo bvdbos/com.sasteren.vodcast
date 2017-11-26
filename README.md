@@ -32,6 +32,7 @@ Dilbert : http://dilbert.wm.wizzard.tv/rss
 <strike>13) if playing time is known, add it to media-manager</strike>  
 
 ## Changelog  
+v0.2.1 (26-11-2017) : fixed typo for settings-page  
 v0.2.0 (12-11-2017) : first version 
   
 ## Thanks to:  

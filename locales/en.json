@@ -8,8 +8,8 @@
 		"textnumber_info": "<A HREF='https://github.com/bvdbos/com.sasteren.vodcast'>a lot</A>",
 		"replace_items": "vodcast-urls",
 		"replace_add_button": "add vodcast",
-		"podcast_url": "vodcast url",
-		"podcast_name": "vodcast titel",
+		"vodcast_url": "vodcast url",
+		"vodcast_name": "vodcast titel",
 		"textnumber_checkbox": "does nothing yet"
 	}
 }
