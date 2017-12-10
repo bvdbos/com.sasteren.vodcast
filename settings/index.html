@@ -336,15 +336,8 @@
 
 				case 'inUrl':
 					console.log(xValue.substr(0,5));				
-					if (xValue.substr(0,5) == 'https') {
-					console.log("is https");
-						xValue = '?'; 
-						obj.style.backgroundColor = '#F0F0F0';
-					} else {
-						obj.style.backgroundColor = '#FFFFFF';
-					}
 					
-					if ((xValue.substr(0,4) == 'http') || (xValue == '?')) {
+					if ((xValue.substr(0,4) == 'http') || xValue.substr(0,5) == 'https') {
 					} else {
 						console.log ("geen http");
 						xValue = '?'; 
