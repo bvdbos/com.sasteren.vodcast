@@ -32,6 +32,7 @@
 					{
 						"name": "item",
 						"type": "string",
+						"example": "https://www.youtube.com/watch?v=zfW1Q3b318c",
 						"title": {
 							"en": "latest vodcast",
 							"nl": "nieuwste vodcast"
@@ -40,6 +41,7 @@
 					{
 						"name": "vctitle",
 						"type": "string",
+						"example": "samsung",
 						"title": {
 							"en": "vodcast-title",
 							"nl": "vodcast-naam"
@@ -48,6 +50,7 @@
 					{
 						"name": "tijd",
 						"type": "string",
+						"example": "10-12-2017",
 						"title": {
 							"en": "time",
 							"nl": "tijd"
