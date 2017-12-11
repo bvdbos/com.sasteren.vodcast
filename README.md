@@ -16,9 +16,11 @@ Nieuwsuur : http://feeds.nos.nl/uitzendingen
 Good Game : http://www.abc.net.au/tv/goodgame/video/vodcast/goodgame_mp4.xml  
 Dilbert : http://dilbert.wm.wizzard.tv/rss
 
-### Youtube-channels - (More info : https://support.google.com/youtube/answer/6224202?hl=en )  
+### Youtube-channels
+(More info : https://support.google.com/youtube/answer/6224202?hl=en )  
 Prophets Of Rage : https://www.youtube.com/feeds/videos.xml?channel_id=UCTJnHNDKnHto7RpIA-1jJfg  
-Greenpeace : https://www.youtube.com/feeds/videos.xml?channel_id=UCTDTSx8kbxGECZJxOa9mIKA
+Greenpeace : https://www.youtube.com/feeds/videos.xml?channel_id=UCTDTSx8kbxGECZJxOa9mIKA  
+all videos from a user : https://www.youtube.com/feeds/videos.xml?user=athomnl  
 
 ## to do:
 <strike>1) https doesn't work :(</strike>  
