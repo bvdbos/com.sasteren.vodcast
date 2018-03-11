@@ -40,6 +40,7 @@ all videos from a user : https://www.youtube.com/feeds/videos.xml?user=athomnl
 15 random-play youtube channel-feed
 
 ## Changelog  
+v0.3.1 (11-3-2018) : adoptions for appstore
 v0.3.0 (10-12-2017) : allow https, support youtube-channel-feeds, rewrite feed-title  
 v0.2.1 (26-11-2017) : fixed typo for settings-page  
 v0.2.0 (12-11-2017) : first version 
