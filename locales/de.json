@@ -1,0 +1,15 @@
+{
+	"settings": {
+		"title": "Vodcast Einstellungen",
+		"intro": "füge deine Vodcasts hinzu",
+		"replace_title": "Achtung",
+		"replace_info": "Https-Urls werden nicht unterstützt.",
+		"textnumber_title": "zu erledigen:",
+		"textnumber_info": "<A HREF='https://github.com/bvdbos/com.sasteren.vodcast'>viel</A>",
+		"replace_items": "Vodcast-Urls",
+		"replace_add_button": "Vodcast hinzufügen",
+		"vodcast_url": "Vodcast Url",
+		"vodcast_name": "Vodcast Titel",
+		"textnumber_checkbox": "tut nichts momentan"
+	}
+}
