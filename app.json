@@ -3,11 +3,13 @@
     "sdk": 2,
     "name": {
         "en": "Vodcasts",
-		"nl": "Vodcasts"
+		"nl": "Vodcasts",
+    "de": "Vodcasts"
     },
     "description": {
         "en": "Fetches video URLs for videostreams",
-		"nl": "Haalt video URLs voor videostreams op"
+		"nl": "Haalt video URLs voor videostreams op",
+    "de": "Holt sich Video Urls für Videostreams"
     },
     "category": "internet",
     "version": "0.3.1",
@@ -27,7 +29,8 @@
 				"id": "new_vodcast_item",
 				"title": {
 					"en": "There's a new Vodcast",
-					"nl": "Er is een nieuwe Vodcast"
+					"nl": "Er is een nieuwe Vodcast",
+          "de": "Ein neuer Vodcast ist vorhanden"
 				},
 				"tokens": [
 					{
@@ -36,7 +39,8 @@
 						"example": "https://www.youtube.com/watch?v=zfW1Q3b318c",
 						"title": {
 							"en": "latest vodcast",
-							"nl": "nieuwste vodcast"
+							"nl": "nieuwste vodcast",
+              "de": "aktuellster Vodcast"
 						}
 					},
 					{
@@ -45,7 +49,8 @@
 						"example": "samsung",
 						"title": {
 							"en": "vodcast-title",
-							"nl": "vodcast-naam"
+							"nl": "vodcast-naam",
+              "de": "Vodcast-Titel"
 						}
 					},
 					{
@@ -54,7 +59,8 @@
 						"example": "10-12-2017",
 						"title": {
 							"en": "time",
-							"nl": "tijd"
+							"nl": "tijd",
+              "de": "Zeit"
 						}
 					}
 				]
